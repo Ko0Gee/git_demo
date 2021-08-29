@@ -13,3 +13,4 @@ this is new function!
 master insert
 master in remote
 update by third party
+test ssh
